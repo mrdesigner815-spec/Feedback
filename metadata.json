@@ -1,0 +1,6 @@
+{
+  "name": "صوتيات دليل التغذية الراجعة - باللهجة السعودية",
+  "description": "توليد ونطق عبارات دليل التغذية الراجعة للطلاب بصوت طبيعي وباللهجة السعودية الدافئة والمحفزة مع خيارات تخصيص الصوت والتنزيل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
